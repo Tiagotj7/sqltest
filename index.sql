@@ -17,3 +17,10 @@ INSERT INTO Produtos (ID, Nome, Preço, Quantidade) VALUES
 (1, 'camiseta', 19.99, 100 ),
 (2, 'calça Jeans', 29.99, 50 ),
 (3, 'Sapato', 49.99, 30 );
+
+--Selecionar todos os produtos
+
+SELECT * FROM Produtos;
+
+
+--The end
